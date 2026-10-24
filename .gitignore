@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local database
+*.db
+*.sqlite3
+cloudpilot.db
+
+# Environment variables
+.env
+.env.local
+
+# Node & Frontend
+node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

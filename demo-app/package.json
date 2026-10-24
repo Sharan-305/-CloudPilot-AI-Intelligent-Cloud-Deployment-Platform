@@ -1,0 +1,12 @@
+{
+  "name": "cloudpilot-demo-app",
+  "version": "1.0.0",
+  "description": "Sample target microservice for CloudPilot AI deployment & anomaly testing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
